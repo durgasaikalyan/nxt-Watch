@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import {Component} from 'react'
 import {AiFillHome} from 'react-icons/ai'
 import {HiFire} from 'react-icons/hi'

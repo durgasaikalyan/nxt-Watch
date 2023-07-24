@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import {withRouter} from 'react-router-dom'
 import Cookies from 'js-cookie'
 import Popup from 'reactjs-popup'

@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import {Component} from 'react'
 import {Route, Switch, Redirect} from 'react-router-dom'
 import ProtectedRoute from './components/ProtectedRoute'

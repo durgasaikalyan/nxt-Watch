@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import ReactPlayer from 'react-player'
 
 import {AiOutlineLike, AiOutlineDislike} from 'react-icons/ai'

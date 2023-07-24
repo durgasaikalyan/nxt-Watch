@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 // import {Link} from 'react-router-dom'
 
 import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
